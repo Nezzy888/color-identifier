@@ -2,7 +2,8 @@
 
  Add short description of project here > 
 
-![add image descrition here](direct image link here)
+<img width="686" alt="Screenshot 2023-04-23 at 4 45 36 PM 1" src="https://user-images.githubusercontent.com/117325252/233868051-753094b8-b6f1-43fe-a91a-ff97cdcfde94.png">
+
 
 ## The Algorithm
 
