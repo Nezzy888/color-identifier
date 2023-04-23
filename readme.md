@@ -9,7 +9,7 @@
 My color identifier algorithim is a software program that determines the color of an object in an image or video. It works by first converting the objects in a space that seperates hue, saturation, and brightness. It defines a set of color range between the two colors it wants to identify. The algorithim determines which color has the highest count assined to the object. This can be implemented in various programming languages such as Python, Java, or C++. 
 
 ## Running this project
-1. start a new jupyter notebook. and choos the programming you need.
+1. start a new jupyter notebook. and choose the programming you need.
 2. write a code for your color identifying project in cells of jupyter notebook. 
 3. Run the code by selecting the cell you want by clicking the run button. 
 note: in order to run a color indentifying project you will need to accsess image files to process. You can upload imigaes to the workspace or providethe file path to an image thats located in your computer. 
